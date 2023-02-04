@@ -11,8 +11,15 @@
 
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:src="@drawable/calculator_svgrepo_com" />
+
+    <TextView
+        android:layout_gravity="center"
+        android:text="ini contoh text"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
